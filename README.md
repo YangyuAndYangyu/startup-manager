@@ -1,11 +1,17 @@
 # 开机启动管理器 v2.1
 
+<p align="center">
+<a href="https://github.com/YangyuAndYangyu/startup-manager"><b>GitHub 仓库</b></a> ·
+<a href="https://github.com/YangyuAndYangyu/startup-manager/releases"><b>下载 exe（Releases）</b></a>
+</p>
+
 把你电脑上所有「开机自启」的东西一次看清，然后一键收拾干净 —— 支持**禁用 / 启用 / 删除**，
 还可以自动挑出「无效项、更新器、可疑项」让你一键清理。全部操作都能一键撤销，绝不误删。
 
 ## 直接双击就能用（推荐）
 
-- 桌面快捷方式：**开机启动管理器**（刚帮你建好了）
+- 桌面上：**开机启动管理器** 快捷方式；或到
+  [Releases 页面](https://github.com/YangyuAndYangyu/startup-manager/releases) 下载最新版
 - 或者直接双击：`dist\开机启动管理器.exe`
 
 它是单个 exe（约 10 MB），**不用装 Python、不用管理员权限**（个别操作需要管理员时软件会提示并自动重开）。
